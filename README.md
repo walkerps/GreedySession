@@ -37,7 +37,7 @@ Logic -
 
 #User Insight
 
-  1. There are a total of 17419 user for 20 different games which can be calculated by taking the count of unique entries in      ai5 and game_id feild.
+    1. There are a total of 17419 user for 20 different gmes.
   
     2.A maximum number of 11495 users play the game with game_id = 10655435.
   
