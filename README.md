@@ -33,5 +33,18 @@ Logic -
   
     b. If the session time is greater than 1 and smaller than 60 then it is considered invalid session.
   
-Average session time is calculated by taking (total_session_time/valid_session).
+7.Average session time is calculated by taking (total_session_time/valid_session).
 
+#User Insight
+
+  1. There are a total of 17419 user for 20 different games which can be calculated by taking the count of unique entries in      ai5 and game_id feild.
+  
+    2.A maximum number of 11495 users play the game with game_id = 10655435.
+  
+    3.Sdk version 7.6 is the most popular version used by a majority of users.
+  
+#Data Discrepancies
+  
+- >Unused attributes can be omitted from the dataset for example :-
+         
+     Attributes debug, random, and params are not required because they are empty most of time.
