@@ -48,3 +48,7 @@ Logic -
 - >Unused attributes can be omitted from the dataset for example :-
          
      Attributes debug, random, and params are not required because they are empty most of time.
+#Runing the Code
+
+- > run the file model.py and check your result in Output.txt
+        python model.py > output.txt
