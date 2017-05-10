@@ -51,4 +51,5 @@ Logic -
 #Runing the Code
 
 - > run the file model.py and check your result in Output.txt
-        python model.py > output.txt
+
+- > python model.py > output.txt
